@@ -12,3 +12,5 @@ data/
 # Ignore IDE configs
 .vscode/
 .idea/
+.venv/
+data/
